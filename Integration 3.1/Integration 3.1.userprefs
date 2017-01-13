@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets\scripts\PlayerMovement.cs">
+    <Files>
+      <File FileName="assets\scripts\SCsummer'16\TheInformationBridge.cs" Line="40" Column="18" />
+      <File FileName="assets\scripts\SCsummer'16\GestureMode.cs" Line="28" Column="41" />
+      <File FileName="assets\scripts\SCsummer'16\Camera3rdPerson.cs" Line="1" Column="1" />
+      <File FileName="assets\scripts\SCsummer'16\PlayerMovementCCNY.cs" Line="772" Column="83" />
+      <File FileName="assets\scripts\SCsummer'16\PlayerPathCCNY.cs" Line="1" Column="1" />
+      <File FileName="assets\scripts\DoorSound.cs" Line="1" Column="1" />
+      <File FileName="assets\scripts\BackgroundMusic.cs" Line="1" Column="1" />
+      <File FileName="assets\scripts\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="assets\scripts\NextDirection.cs" Line="1" Column="1" />
+      <File FileName="assets\easytts\EasyTTSUtil.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Juan\Documents\Unity Games\Integration 3.1\assets\scripts\SCsummer'16\PlayerMovementCCNY.cs" line="46" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
